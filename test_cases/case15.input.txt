@@ -1,0 +1,5 @@
+//Case 15 :: Placing a valid tile in wrong area -- from Case 11
+Your hand is
+G4,R1,Y4,Y2,B1,B5
+
+> place G4 at J14

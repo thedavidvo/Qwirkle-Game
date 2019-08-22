@@ -1,0 +1,3 @@
+//Case 9 :: Entering an incorrect name for player 1
+Enter a name for player 1 (uppercase characters only)
+> PUFFER2

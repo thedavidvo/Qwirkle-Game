@@ -1,0 +1,8 @@
+> place P2 at N14
+
+Gameover
+Score for JAMES: 85
+Score for QWIRK: 94
+Player QWIRK won!
+
+Goodbye

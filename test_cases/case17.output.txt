@@ -1,0 +1,4 @@
+> replace G1
+
+Invalid move. Please enter a valid move.
+>

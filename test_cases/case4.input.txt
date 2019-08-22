@@ -1,0 +1,4 @@
+//Case 4 :: Entering file name correctly
+Enter the filename from which load a game
+> savedState
+

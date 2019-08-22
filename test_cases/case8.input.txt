@@ -1,0 +1,3 @@
+//Case 8 :: Entering a name with lower case
+Enter a name for player 2 (uppercase characters only)
+> Peter

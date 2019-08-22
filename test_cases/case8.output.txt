@@ -1,0 +1,6 @@
+> Peter
+
+Your name was not in uppercase, please try again!
+
+Enter a name for player 2 (uppercase characters only)
+> 

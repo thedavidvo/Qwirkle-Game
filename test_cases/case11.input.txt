@@ -1,0 +1,5 @@
+//Case 11 :: Placing a tile -- from Case 10
+Your hand is
+G5,O5,B2,P6,O5,O2
+
+> place G5 at E8

@@ -1,0 +1,5 @@
+> savedGame
+
+Qwirkle game successfully loaded
+
+<gameplay continues>

@@ -1,0 +1,5 @@
+//Case 13 :: Placing the same colour next to piece -- from Case 11
+Your hand is
+G4,R1,Y4,Y2,B1,B5
+
+>place G4 at D8

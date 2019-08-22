@@ -1,0 +1,6 @@
+//Case 18 :: Saving the game -- from Case 16
+
+Your hand is
+G4,R1,Y4,Y2,B1,R5
+
+> save case18

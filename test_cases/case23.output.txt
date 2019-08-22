@@ -1,0 +1,12 @@
+> help
+
+                                                       HELP!
+----------------------------------------------------------------------------------------------------------------------------
+place   <tile> at <coordinate> - will place your chosen tile on the board, counts as a move
+replace <tile>                 - your tile will be placed in the bag and you will draw a new tile, counts as a move
+save <file name>               - your tile will be placed in the bag and you will draw a new tile, DOES NOT count as a move
+----------------------------------------------------------------------------------------------------------------------------
+
+It is still your turn, JAMES
+Please make a move!
+> 

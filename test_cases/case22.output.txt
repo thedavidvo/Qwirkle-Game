@@ -1,0 +1,15 @@
+> 3
+
+How to play!
+-------------
+Qwirkle is a strategic board game, where two players try to accumulate as many points as possible,   
+by placing tiles on the board. The aim of the game is to try and place a tile which will score you    
+a point. In addition, the longer the line you create, the more points you will get for making a line!  
+For example, if you place a tile and create a line of 4, you will score 4 points! If you place a tile. 
+and it creates two lines, you will score an addition 2 points plus the amount of tiles that are        
+in both of the lines! If you create a line that has 6 tiles, that is called a QWIRKLE! You will earn  
+an additional 6 points as well as one point per tile. So what are you waiting for?                 
+For in game commands as well as saving the game, please type 'help' once you commence your game.   
+Good luck!
+
+<Game Menu>

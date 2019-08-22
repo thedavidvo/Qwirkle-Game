@@ -1,0 +1,12 @@
+//Case 6 :: New Game Option
+
+Menu
+----
+1. New Game
+2. Load Game
+3. How to play
+4. Show student information
+5. Quit game
+
+
+> 1

@@ -1,0 +1,3 @@
+//Case 10 :: Entering a correct player 2 name:
+Enter a name for player 2 (uppercase characters only)
+> QWIRK

@@ -1,0 +1,7 @@
+> save case18
+
+Game Successfully Saved
+
+<gameplay continues with current player>
+
+//see more at case18.save

@@ -1,0 +1,4 @@
+> JAMES
+
+Enter a name for player 2 (uppercase characters only)
+> 

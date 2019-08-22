@@ -1,0 +1,6 @@
+//Case 16 :: replacing a tile where duplicate tile in hand -- from Case 12 output
+
+Your hand is
+R3,O5,B2,P6,O5,O2
+
+> replace O5

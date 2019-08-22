@@ -1,0 +1,5 @@
+> place G5
+
+You have entered an invalid input
+Invalid move. Please enter a valid move.
+> 
